@@ -13,8 +13,8 @@ Welcome to the github repo of Blockchain building from scratch.
 
 ## Technology
 - To run this system download all files and `npm run node_1` which starts server on NODE 1
-- For multiple ports use node_x
-- To use in on LAN change ip addresses and ports accordingly
+- For multiple ports use `node_x` where x = 1,2,3,4,5
+- To use in on LAN change ip addresses and ports accordingly in `pakage.json` file
 
 ## Copyright
 
