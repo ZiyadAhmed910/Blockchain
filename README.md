@@ -12,7 +12,7 @@ Welcome to the github repo of Blockchain building from scratch.
 - The Webapp is built on Angular and Nodejs
 
 ## Technology
-- To run this system download all files and npm node_1 which starts server on NODE 1
+- To run this system download all files and `npm run node_1` which starts server on NODE 1
 - For multiple ports use node_x
 - To use in on LAN change ip addresses and ports accordingly
 
